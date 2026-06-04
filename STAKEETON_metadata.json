@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "name": " STAKEETON",
+    "symbol": "STAKEETON",
+=======
     "name": "Stakee TON",
     "symbol": "STAKEETON",
+>>>>>>> c144b79b380bdd4f5afcc48b359a8f0e62f1df17
     "decimals": 9,
     "image": "https://raw.githubusercontent.com/Sally099911/10010111/refs/heads/main/img.jpg",
     "description": "Stakee liquid staked TON"
