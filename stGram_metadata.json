@@ -2,6 +2,6 @@
     "name": "Staked GRAM",
     "symbol": "stGRAM",
     "decimals": 9,
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Sally099911/10010111/refs/heads/main/stGRAM.jpeg",
     "description": "Gram liquid staking token"
 }
