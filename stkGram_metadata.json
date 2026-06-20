@@ -1,7 +1,15 @@
 {
-    "name": "Staked GRAM",
+    "name": "Staked GRAM token",
     "symbol": "stkGRAM",
     "decimals": 9,
     "image": "https://raw.githubusercontent.com/Sally099911/10010111/refs/heads/main/stkGRAM.jpeg",
     "description": "Gram liquid staking token"
+}
+
+{
+  "name": "StkGRAM Test",
+  "symbol": "StkGRAM",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/Sally099911/10010111/refs/heads/main/stkGRAM.jpeg",
+  "description": "Staked GRAM smoke-test token"
 }
